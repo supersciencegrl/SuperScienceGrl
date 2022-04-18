@@ -12,5 +12,7 @@
 - 🌱 I am learning about **Dash** to make useful dashboards for my department, **scikit-learn** for machine learning, and **SQL** and **databases** in the context of chemoinformatics.
 - 🤖 I enjoy data in the context of **laboratory software and hardware automation** in chemistry, **HTE experimental design**, and **FAIR data ecosystems** to enable synthetic chemists to do their work with less fuss and extra admin.
 
+Sorry! Most of my repos are necessarily private. Please check out the public ones, or contact me at through my website below.
+
 ## ⏣ Links
    >![website](https://img.shields.io/badge/website-E4637C?style=for-the-badge&logo=SpyderIDE&logoColor=white)  ![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)  ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)  ![kofi](https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=Ko-Fi&logoColor=white)
